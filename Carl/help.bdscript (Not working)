@@ -1,0 +1,16 @@
+Trigger: $sudo help
+==Script==
+$nomention
+$title[Chats & Commands]
+$description[Commands:
+$sudo help - This page
+$sudo invite - Get an invite link
+$sudo - Special
+$sudo s* lol - Hehe fun
+$sudo amogus - Sus]
+$footer[Chats:
+Hello Carl - Says Hi Back
+Have you gotten the gun yet? - Fun
+Amogus - Sussy
+==MORE COMING SOON==]
+$color[d1985f]
