@@ -1,0 +1,4 @@
+Trigger: Hello Carl
+==Script==
+$nomention
+Hi $username
